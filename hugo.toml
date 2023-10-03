@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "MiYa"
 theme = 'PaperMod'
 
 math = true
@@ -19,7 +19,7 @@ buildExpired = false
     lineAnchors = ''
     lineNoStart = 1
     lineNos = true
-    lineNumbersInTable = true
+    lineNumbersInTable = false
     noClasses = true
     noHl = false
     style = 'monokai'
